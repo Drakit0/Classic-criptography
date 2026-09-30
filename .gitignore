@@ -5,3 +5,12 @@ worked_files
 *.zip
 *.spec
 *.ipynb
+
+*.pyc
+.venv/
+venv/
+.vscode/
+.idea/
+Thumbs.db
+.DS_Store
+desktop.ini
